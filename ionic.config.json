@@ -1,0 +1,7 @@
+{
+  "name": "colossio-assignment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
